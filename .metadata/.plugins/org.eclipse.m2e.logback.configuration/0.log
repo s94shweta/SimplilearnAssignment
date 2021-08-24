@@ -1792,3 +1792,6 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet
 2021-08-23 17:34:06,695 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\Acer\git\simplilearn_fsd_projects\Phase-3\sportyShoes\target\classes
 2021-08-23 17:34:08,078 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-23 17:34:08,079 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Acer\git\simplilearn_fsd_projects\Phase-3\sportyShoes\src\test\resources
+2021-08-24 23:05:11,021 [Worker-15: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-24 23:15:47,113 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-25 00:15:08,714 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
