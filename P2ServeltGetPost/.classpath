@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/javax.persistence-3.0-prelude-embedded-m2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Downloads/javax.servlet-3.0.jar/javax.servlet-3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
